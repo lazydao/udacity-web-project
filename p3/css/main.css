@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo {
+    max-width: 100px;
+    float: left;
+}
+
+.uptext {
+    text-transform: uppercase;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.col-md-12 img,.col-md-4 img {
+    width: 100%;
+}
