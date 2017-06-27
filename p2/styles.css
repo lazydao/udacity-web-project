@@ -1,0 +1,21 @@
+#base{
+  width: 322px;
+}
+.italic{
+  font-style: italic;
+  }
+.boldface{
+  font-weight: bold;
+}
+.listnodot{
+  list-style-type: none;
+}
+.border1{
+  border: 6px ridge;
+}
+.border2{
+  border: 4px inset;
+}
+.padding{
+  padding: 5px;
+}
