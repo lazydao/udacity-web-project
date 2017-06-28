@@ -17,10 +17,18 @@
     text-transform: uppercase;
 }
 
-figcaption {
-    text-align: center;
+.righttext {
+    text-align: right;
 }
 
-.col-md-12 img,.col-md-4 img {
-    width: 100%;
+h2 {
+    color: #7d97ad;
+}
+
+h3 {
+    color: #2d3c49;
+}
+
+figcaption {
+    text-align: center;
 }
